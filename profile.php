@@ -1,7 +1,7 @@
 <div class="row">
     <div class="col-md-12">
         <div class="text-center">
-            <img src="img/dedy.jpg" alt="Dedy Rosyadi" width="160" class="rounded-circle">
+            <img src="img/dedy.jpg" alt="Lukman" width="160" class="rounded-circle">
             <table class="table mt-4" style="width:100%; margin:0 auto;">
                 <tbody>
                     <tr>
